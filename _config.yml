@@ -1,5 +1,5 @@
 ---
-title: Your job title
+title: Data Scientist
 timezone: UTC
 collections:
   posts:
@@ -8,10 +8,9 @@ collections:
   uploads:
     title: Uploads
     output: true
-repository: Git repository where your resume will be hosted, only required if you
-  are hosting on GitHub (eg. sproogen/modern-resume-theme)
+repository: bkusuma/modern-resume-theme
 version: 2
-name: Your Name
+name: Bharat Kusuma
 email: Your email (optional)
 phone: Your phone number (optional)
 website: Your website (eg. https://google.com)(optional)
