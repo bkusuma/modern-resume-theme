@@ -14,7 +14,7 @@ name: Bharat Kusuma
 email: Your email (optional)
 phone: Your phone number (optional)
 website: Your website (eg. https://google.com)(optional)
-darkmode: false
+darkmode: true
 twitter_username: jekyllrb
 github_username: jekyll
 stackoverflow_username: '00000001'
